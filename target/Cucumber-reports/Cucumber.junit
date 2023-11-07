@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="39.174" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Adding and removing items from wishlist" name="Adding items to wishlist" time="30.913">
+<system-out><![CDATA[
+Given user is in the home page..............................................passed
+And user clicks on apparels and shoes.......................................passed
+And user clicks  on one item................................................passed
+And User clicks on add to wishlist..........................................passed
+And User clicks on Wishlist.................................................passed
+Then The item is shown on the wishlist......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Adding and removing items from wishlist" name="removing items from wishlist" time="8.065">
+<system-out><![CDATA[
+Given user is in the home page..............................................passed
+When User clicks on Wishlist................................................passed
+And the remove option is clicked............................................passed
+And the update wish list is clicked.........................................passed
+Then the wishlist is empty message is shown.................................passed
+]]></system-out>
+</testcase>
+</testsuite>

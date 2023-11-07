@@ -1,0 +1,44 @@
+[INFO ] 2023-11-07 17:01:40.215 [main] WishlistDefinition - page opened
+[INFO ] 2023-11-07 17:01:41.569 [main] WishlistDefinition - register page opened
+[INFO ] 2023-11-07 17:01:43.850 [main] WishlistDefinition - gender selected
+[INFO ] 2023-11-07 17:01:44.279 [main] WishlistDefinition - cred entered
+[INFO ] 2023-11-07 17:02:30.568 [main] WishlistDefinition - page opened
+[INFO ] 2023-11-07 17:02:31.892 [main] WishlistDefinition - register page opened
+[INFO ] 2023-11-07 17:02:31.955 [main] WishlistDefinition - gender selected
+[INFO ] 2023-11-07 17:02:31.959 [main] WishlistDefinition - cred entered
+[INFO ] 2023-11-07 17:02:32.034 [main] WishlistDefinition - entering first name
+[INFO ] 2023-11-07 17:02:32.094 [main] WishlistDefinition - entering last name
+[INFO ] 2023-11-07 17:02:32.163 [main] WishlistDefinition - entering email
+[INFO ] 2023-11-07 17:02:32.248 [main] WishlistDefinition - entering password
+[INFO ] 2023-11-07 17:02:32.304 [main] WishlistDefinition - entering confirm password
+[INFO ] 2023-11-07 17:02:33.016 [main] WishlistDefinition - register button is clicked
+[INFO ] 2023-11-07 17:04:08.396 [main] WishlistDefinition - page opened
+[INFO ] 2023-11-07 17:04:09.517 [main] WishlistDefinition - register page opened
+[INFO ] 2023-11-07 17:04:09.762 [main] WishlistDefinition - gender selected
+[INFO ] 2023-11-07 17:04:09.774 [main] WishlistDefinition - cred entered
+[INFO ] 2023-11-07 17:04:09.878 [main] WishlistDefinition - entering first name
+[INFO ] 2023-11-07 17:04:09.952 [main] WishlistDefinition - entering last name
+[INFO ] 2023-11-07 17:04:10.030 [main] WishlistDefinition - entering email
+[INFO ] 2023-11-07 17:04:10.098 [main] WishlistDefinition - entering password
+[INFO ] 2023-11-07 17:04:10.165 [main] WishlistDefinition - entering confirm password
+[INFO ] 2023-11-07 17:04:11.002 [main] WishlistDefinition - register button is clicked
+[INFO ] 2023-11-07 17:04:11.063 [main] WishlistDefinition - sucessful
+[INFO ] 2023-11-07 17:06:00.100 [main] WishlistDefinition - page opened
+[INFO ] 2023-11-07 17:06:03.843 [main] WishlistDefinition - User clicks the log in button
+[INFO ] 2023-11-07 17:06:21.658 [main] WishlistDefinition - User gives valid email
+[INFO ] 2023-11-07 17:06:21.749 [main] WishlistDefinition - User gives valid password
+[INFO ] 2023-11-07 17:06:23.878 [main] WishlistDefinition - User clicks the login button
+[INFO ] 2023-11-07 17:06:24.036 [main] WishlistDefinition - User is shown looged in to the website
+[INFO ] 2023-11-07 17:06:25.023 [main] WishlistDefinition - page opened
+[INFO ] 2023-11-07 17:06:58.111 [main] WishlistDefinition - User clicks the log in button
+[INFO ] 2023-11-07 17:10:01.575 [main] WishlistDefinition - entered home page
+[INFO ] 2023-11-07 17:10:03.330 [main] WishlistDefinition - clicked on shoes
+[INFO ] 2023-11-07 17:10:06.144 [main] WishlistDefinition - clicked one the first item
+[INFO ] 2023-11-07 17:10:06.257 [main] WishlistDefinition - clicked add to wish list
+[INFO ] 2023-11-07 17:10:06.911 [main] WishlistDefinition - click wishlist
+[INFO ] 2023-11-07 17:10:07.140 [main] WishlistDefinition - item is added to wishlist
+[INFO ] 2023-11-07 17:10:13.003 [main] WishlistDefinition - entered home page
+[INFO ] 2023-11-07 17:10:13.503 [main] WishlistDefinition - click wishlist
+[INFO ] 2023-11-07 17:10:14.612 [main] WishlistDefinition - the remove checkbox is clicked 
+[INFO ] 2023-11-07 17:10:15.183 [main] WishlistDefinition - the update wish list is clicked
+[INFO ] 2023-11-07 17:10:15.218 [main] WishlistDefinition - the wishlist is empty message is shown
